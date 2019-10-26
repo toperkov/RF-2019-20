@@ -16,7 +16,6 @@ Vaš zadatak je formatirati USB memoriju te kreirati dvije particije, **NTFS** i
 <br/>
 
 
-
 2) upišite `DISKPART` u Command Prompt.
 
 <br/>
