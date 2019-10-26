@@ -10,7 +10,7 @@ Vaš zadatak je formatirati USB memoriju te kreirati dvije particije, **NTFS** i
 
 <br/>
 <p align="center">
-<img src="figs/cmd_admin.PNG" alt="ECB encryption" width="300px" height="auto"/>
+<img src="figs/cmd_admin.png" alt="Command Prompts" width="300px" height="auto"/>
 <br><br>
 </p>
 <br/>
@@ -20,7 +20,7 @@ Vaš zadatak je formatirati USB memoriju te kreirati dvije particije, **NTFS** i
 
 <br/>
 <p align="center">
-<img src="figs/diskpart.PNG" alt="ECB encryption" width="500px" height="auto"/>
+<img src="figs/diskpart.png" alt="List disks" width="500px" height="auto"/>
 <br><br>
 </p>
 <br/>
@@ -32,7 +32,7 @@ Vaš zadatak je formatirati USB memoriju te kreirati dvije particije, **NTFS** i
 
 <br/>
 <p align="center">
-<img src="figs/diskpart_2.PNG" alt="ECB encryption" width="500px" height="auto"/>
+<img src="figs/diskpart_2.png" alt="Create partition NTFS" width="500px" height="auto"/>
 <br><br>
 </p>
 <br/>
@@ -43,7 +43,7 @@ Vaš zadatak je formatirati USB memoriju te kreirati dvije particije, **NTFS** i
 
 <br/>
 <p align="center">
-<img src="figs/diskpart_3.PNG" alt="ECB encryption" width="500px" height="auto"/>
+<img src="figs/diskpart_3.png" alt="Create partition FAT32" width="500px" height="auto"/>
 <br><br>
 </p>
 <br/>
