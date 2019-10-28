@@ -48,6 +48,6 @@ b) Pretpostavimo da je tvrtka prijavila problem korporativne špijunaže u kojem
 
 `c15e32d27635f248c1c8b66bb012850e5b342119`
 
-Također, sa računala osumnjičene osobe ste izuzeli niz dokumenata koji bi mogli ukazivati na potencijalni dokaz. Dokumente u `.zip` datoteci možete preuzeti iz direktorija [Downloads](/Downloads). Raspakirajte dokumente i napravite analizu te navedite o kojem se dokumentu radi.
+Također, sa računala osumnjičene osobe ste izuzeli niz dokumenata koji bi mogli ukazivati na potencijalni dokaz. Dokumente u `.zip` datoteci možete preuzeti iz direktorija [Downloads](Downloads). Raspakirajte dokumente i napravite analizu te navedite o kojem se dokumentu radi.
 
 
