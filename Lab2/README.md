@@ -9,7 +9,7 @@ Cilj ove vježbe je razumijeti da datoteke imaju jedinstvena zaglavlja na osnovu
 - Skinite na vaše računalo te instalirajte `Winhex` program:
 http://www.winhex.com/winhex/hex-editor.html
 
-- Iz direktorija [Download](Download) sačuvajte 3 datoteke
+- Iz direktorija [Download](https://github.com/toperkov/RF-2018-19/tree/master/Lab1/Download) sačuvajte 3 datoteke
 
 - Svaku datoteku pojedinačno otvorite u `Winhex` editoru
 
