@@ -1,4 +1,4 @@
-# Lab 3 - Steganografija i Metadata
+# Lab 5 - Steganografija i Metadata
 
 U skloup današnjeg predavanja upoznat ćemo se sa pojmom *Steganografija*, vidjet ćemo sto je to *Metadata* kod podataka pohranjenih na računalu te na koji način nam podaci o podacima mogu pomoći prilikom forenzične istrage.
 
