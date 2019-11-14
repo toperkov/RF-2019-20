@@ -1,6 +1,10 @@
-# Lab 3 - Restauracija izbrisanih podataka, kreiranje slike medija i sigurno brisanje medija
+# Lab 4 - Restauracija izbrisanih podataka, kreiranje slike medija i sigurno brisanje medija
 
 U sklopu ove vježbe student će se upoznati sa postupcima kojima se mogu restaurirati naizgled izbrisani podaci na medija za pohranu. Vidjet ćemo nakon toga koji se komercijalni i dostupni alati koriste za kreiranje slike medija za pohranu, odnosno dokaznog materijala. Na kraju ćemo se dotaknuti i programa koji se upotrebljavaju za sigurno brisanje medija.
+
+## Instalacija Softver Write Blocker-a
+
+Instalirajte [SAFE Block](https://www.forensicsoft.com/safeblock.php) - softverski write blocker. SAFE Block olakšava brzo i sigurno stjecanje i / ili analizu bilo kojeg diska ili flash memorije pričvršćene izravno na vašu Windows radnu stanicu.
 
 ## Izrada sigurnosne kopije diska
 
